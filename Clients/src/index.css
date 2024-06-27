@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+    
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.leftBar{
+    text-decoration: none;
+    color: #FFFF;
+    font-size: 18px;
+    display: flex;
+    gap: 10px;
+}
+
